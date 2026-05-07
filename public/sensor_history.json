@@ -1,0 +1,802 @@
+[
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 867,
+    "soil": 1516,
+    "timestamp": 1776866136130
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 867,
+    "soil": 1507,
+    "timestamp": 1776866142087
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 867,
+    "soil": 1509,
+    "timestamp": 1776866148055
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 920,
+    "soil": 1534,
+    "timestamp": 1776866154019
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 841,
+    "soil": 1393,
+    "timestamp": 1776866159978
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 1165,
+    "soil": 1653,
+    "timestamp": 1776866165943
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 867,
+    "soil": 1519,
+    "timestamp": 1776866171907
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 858,
+    "soil": 1482,
+    "timestamp": 1776866177870
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 852,
+    "soil": 1529,
+    "timestamp": 1776866183833
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 846,
+    "soil": 1487,
+    "timestamp": 1776866189800
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 845,
+    "soil": 1502,
+    "timestamp": 1776866195763
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 849,
+    "soil": 1534,
+    "timestamp": 1776866201754
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 856,
+    "soil": 1495,
+    "timestamp": 1776866207696
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 835,
+    "soil": 1494,
+    "timestamp": 1776866213658
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 859,
+    "soil": 1531,
+    "timestamp": 1776866219617
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 853,
+    "soil": 1520,
+    "timestamp": 1776866225607
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 854,
+    "soil": 1497,
+    "timestamp": 1776866231549
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 851,
+    "soil": 1500,
+    "timestamp": 1776866237511
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 851,
+    "soil": 1523,
+    "timestamp": 1776866243502
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 867,
+    "soil": 1507,
+    "timestamp": 1776866249440
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 869,
+    "soil": 1516,
+    "timestamp": 1776866255425
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 869,
+    "soil": 1535,
+    "timestamp": 1776866261367
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 869,
+    "soil": 1500,
+    "timestamp": 1776866267331
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 862,
+    "soil": 1528,
+    "timestamp": 1776866273301
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 862,
+    "soil": 1511,
+    "timestamp": 1776866279286
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 863,
+    "soil": 1513,
+    "timestamp": 1776866285227
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 855,
+    "soil": 1524,
+    "timestamp": 1776866291186
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 847,
+    "soil": 1491,
+    "timestamp": 1776866297175
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 869,
+    "soil": 1541,
+    "timestamp": 1776866303116
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 73,
+    "light": 872,
+    "soil": 1511,
+    "timestamp": 1776866309080
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 853,
+    "soil": 1500,
+    "timestamp": 1776866315041
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 853,
+    "soil": 1530,
+    "timestamp": 1776866321038
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 857,
+    "soil": 1498,
+    "timestamp": 1776866326973
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 856,
+    "soil": 1532,
+    "timestamp": 1776866332937
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 855,
+    "soil": 1510,
+    "timestamp": 1776866338899
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 853,
+    "soil": 1510,
+    "timestamp": 1776866344867
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 853,
+    "soil": 1529,
+    "timestamp": 1776866350828
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 852,
+    "soil": 1537,
+    "timestamp": 1776866356788
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 845,
+    "soil": 1535,
+    "timestamp": 1776866362783
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 847,
+    "soil": 1539,
+    "timestamp": 1776866368721
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 847,
+    "soil": 1536,
+    "timestamp": 1776866374685
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 854,
+    "soil": 1544,
+    "timestamp": 1776866380651
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 838,
+    "soil": 1533,
+    "timestamp": 1776866386610
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 848,
+    "soil": 1541,
+    "timestamp": 1776866392575
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 852,
+    "soil": 1548,
+    "timestamp": 1776866398545
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 848,
+    "soil": 1535,
+    "timestamp": 1776866404502
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 847,
+    "soil": 1504,
+    "timestamp": 1776866410469
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 847,
+    "soil": 1511,
+    "timestamp": 1776866416436
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 855,
+    "soil": 1543,
+    "timestamp": 1776866422396
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 846,
+    "soil": 1505,
+    "timestamp": 1776866428361
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 850,
+    "soil": 1539,
+    "timestamp": 1776866434328
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 862,
+    "soil": 1514,
+    "timestamp": 1776866440304
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 862,
+    "soil": 1522,
+    "timestamp": 1776866446273
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 863,
+    "soil": 1544,
+    "timestamp": 1776866452242
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 842,
+    "soil": 1492,
+    "timestamp": 1776866458184
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 862,
+    "soil": 1524,
+    "timestamp": 1776866464147
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 866,
+    "soil": 1546,
+    "timestamp": 1776866470108
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 860,
+    "soil": 1510,
+    "timestamp": 1776866476082
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 865,
+    "soil": 1506,
+    "timestamp": 1776866482037
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 868,
+    "soil": 1517,
+    "timestamp": 1776866488021
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 864,
+    "soil": 1522,
+    "timestamp": 1776866493964
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 857,
+    "soil": 1517,
+    "timestamp": 1776866499930
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 72,
+    "light": 857,
+    "soil": 1521,
+    "timestamp": 1776866505894
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 853,
+    "soil": 1520,
+    "timestamp": 1776866511858
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 854,
+    "soil": 1528,
+    "timestamp": 1776866517827
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 855,
+    "soil": 1536,
+    "timestamp": 1776866523786
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 854,
+    "soil": 1543,
+    "timestamp": 1776866529755
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 855,
+    "soil": 1537,
+    "timestamp": 1776866535711
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 852,
+    "soil": 1514,
+    "timestamp": 1776866541678
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 846,
+    "soil": 1538,
+    "timestamp": 1776866547645
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 849,
+    "soil": 1507,
+    "timestamp": 1776866553605
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 848,
+    "soil": 1530,
+    "timestamp": 1776866559571
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 849,
+    "soil": 1545,
+    "timestamp": 1776866565535
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 848,
+    "soil": 1507,
+    "timestamp": 1776866571525
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 840,
+    "soil": 1534,
+    "timestamp": 1776866577486
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 840,
+    "soil": 1508,
+    "timestamp": 1776866583428
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 845,
+    "soil": 1515,
+    "timestamp": 1776866589390
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 856,
+    "soil": 1538,
+    "timestamp": 1776866595358
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 857,
+    "soil": 1503,
+    "timestamp": 1776866601318
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 856,
+    "soil": 1533,
+    "timestamp": 1776866607281
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 853,
+    "soil": 1516,
+    "timestamp": 1776866613246
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 856,
+    "soil": 1499,
+    "timestamp": 1776866619209
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 855,
+    "soil": 1525,
+    "timestamp": 1776866625175
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 869,
+    "soil": 1554,
+    "timestamp": 1776866631140
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 862,
+    "soil": 1533,
+    "timestamp": 1776866637104
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 858,
+    "soil": 1504,
+    "timestamp": 1776866643067
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 867,
+    "soil": 1516,
+    "timestamp": 1776866649030
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 869,
+    "soil": 1546,
+    "timestamp": 1776866654997
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 856,
+    "soil": 1538,
+    "timestamp": 1776866660957
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 980,
+    "soil": 1631,
+    "timestamp": 1776866666925
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 874,
+    "soil": 1549,
+    "timestamp": 1776866672892
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 874,
+    "soil": 1544,
+    "timestamp": 1776866678851
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 867,
+    "soil": 1470,
+    "timestamp": 1776866684820
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 906,
+    "soil": 1306,
+    "timestamp": 1776866690780
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 835,
+    "soil": 1539,
+    "timestamp": 1776866696742
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 71,
+    "light": 835,
+    "soil": 1526,
+    "timestamp": 1776866702710
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 68,
+    "light": 839,
+    "soil": 1515,
+    "timestamp": 1776866708671
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 67,
+    "light": 1186,
+    "soil": 1766,
+    "timestamp": 1776866714639
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 68,
+    "light": 1525,
+    "soil": 1710,
+    "timestamp": 1776866720627
+  },
+  {
+    "type": "telemetry",
+    "temperature": 22,
+    "humidity": 68,
+    "light": 862,
+    "soil": 1509,
+    "timestamp": 1776866726565
+  }
+]
