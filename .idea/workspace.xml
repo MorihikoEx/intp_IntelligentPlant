@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd78407a-5f1f-4278-b0b7-e211b9ec8bd3" name="更改" comment="" />
+    <list default="true" id="dd78407a-5f1f-4278-b0b7-e211b9ec8bd3" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/public/img/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +39,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MorihikoEx/intp-IntelligentPlant.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/MorihikoEx/intp_IntelligentPlant.git&quot;,
     &quot;accountId&quot;: &quot;f6d52b70-797d-411b-988c-aa8ec38d3a4b&quot;
   }
 }</component>
@@ -88,9 +92,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intp\public\img" />
       <recent name="D:\intp\public" />
       <recent name="D:\intp\src\components\ware" />
-      <recent name="D:\intp\public\img" />
       <recent name="D:\intp\src\components\page" />
       <recent name="D:\intp\src\components\img" />
     </key>
@@ -156,7 +160,8 @@
       <workItem from="1778134487150" duration="627000" />
       <workItem from="1778135131539" duration="202000" />
       <workItem from="1778135348583" duration="217000" />
-      <workItem from="1778135675441" duration="220000" />
+      <workItem from="1778135675441" duration="345000" />
+      <workItem from="1778157121304" duration="1022000" />
     </task>
     <servers />
   </component>
