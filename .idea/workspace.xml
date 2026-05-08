@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd78407a-5f1f-4278-b0b7-e211b9ec8bd3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/img_2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DashboardPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DashboardPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ware/PlantAiAssistant.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ware/PlantAiAssistant.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="36" />
+    <option name="cachedIndexableFilesCount" value="37" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -92,11 +95,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intp" />
+      <recent name="D:\intp\intp_pc" />
       <recent name="D:\intp\public\img" />
       <recent name="D:\intp\public" />
       <recent name="D:\intp\src\components\ware" />
-      <recent name="D:\intp\src\components\page" />
-      <recent name="D:\intp\src\components\img" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm dev">
@@ -111,6 +114,9 @@
       </scripts>
       <node-interpreter value="project" />
       <envs />
+      <EXTENSION ID="com.intellij.lang.javascript.buildTools.npm.rc.StartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      </EXTENSION>
       <method v="2" />
     </configuration>
   </component>
@@ -162,6 +168,8 @@
       <workItem from="1778135348583" duration="217000" />
       <workItem from="1778135675441" duration="345000" />
       <workItem from="1778157121304" duration="1022000" />
+      <workItem from="1778158842629" duration="174000" />
+      <workItem from="1778208164819" duration="4131000" />
     </task>
     <servers />
   </component>

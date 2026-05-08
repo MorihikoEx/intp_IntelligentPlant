@@ -33,3 +33,16 @@
 ## 系统集成与测试
 
 进行软硬件的联合调试，对系统的各项功能、稳定性、可靠性及控制精度进行测试与优化。
+
+## 须知
+
+为防止 API key 被滥用而产生费用，出于安全原因考虑。AI生成植物养护建议和推荐阈值的部分需要自行填写服务提供商和 API key。
+如需尝试AI生成功能，请自行选择API服务提供商并修改`PlantAiAssistant.js`中以下字段。
+
+
+```
+const DEFAULT_MODEL = '此处输入选用的模型'
+const DEFAULT_API_KEY = '此处输入API key'
+const API_URL = '此处输入服务提供商url'
+```
+

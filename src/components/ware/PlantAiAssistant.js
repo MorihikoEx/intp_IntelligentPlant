@@ -1,8 +1,8 @@
 import {ref} from 'vue'
 
-const DEFAULT_MODEL = 'deepseek-ai/DeepSeek-V3'
-const DEFAULT_API_KEY = 'sk-gyeamlvczxflazulsdjrbnfymmrigwauquejitgqekvhnrdm'
-const API_URL = 'https://api.siliconflow.cn/v1/chat/completions'
+const DEFAULT_MODEL = '此处输入选用的模型'
+const DEFAULT_API_KEY = '此处输入API key'
+const API_URL = '此处输入服务提供商url'
 
 const clamp = (value, min, max) => {
     const numberValue = Number(value)

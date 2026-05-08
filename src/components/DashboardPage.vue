@@ -36,7 +36,7 @@
       <div class="box-part glass-frost pb-5 mb-5">
         <h2 class="mb-0">温湿度折线图</h2>
         <time-line-chart
-            :data="historyData"
+            :data="recentHistoryData"
             :series="[
             { key: 'temperature', label: '温度', color: 'var(--color-d)' },
             { key: 'humidity', label: '湿度', color: 'var(--color-a)' }
@@ -44,21 +44,20 @@
         />
         <h2 class="mb-0">光照强度折线图</h2>
         <time-line-chart
-            :data="historyData"
+            :data="recentHistoryData"
             :series="[
             { key: 'light', label: '光照强度', color: 'var(--color-d)' }
           ]"
         />
         <h2 class="mb-0">土壤湿度折线图</h2>
         <time-line-chart
-            :data="historyData"
+            :data="recentHistoryData"
             :series="[
             { key: 'soil', label: '土壤湿度', color: 'var(--color-a)' }
           ]"
         />
       </div>
     </div>
-
 
     <plant-care-info-panel
         @thresholds-generated="handleThresholdsGenerated"
@@ -127,10 +126,26 @@ const props = defineProps({
 })
 
 const aiSuggestedThreshold = ref(null)
+const RECENT_HISTORY_WINDOW_MS = 48 * 60 * 60 * 1000
 
 const handleThresholdsGenerated = (thresholds) => {
   aiSuggestedThreshold.value = thresholds
 }
+
+const recentHistoryData = computed(() => {
+  const validData = [...props.historyData]
+      .filter(item => item && Number.isFinite(Number(item.timestamp)))
+      .sort((a, b) => Number(a.timestamp) - Number(b.timestamp))
+
+  if (!validData.length) {
+    return []
+  }
+
+  const latestTimestamp = Number(validData[validData.length - 1].timestamp)
+  const minTimestamp = latestTimestamp - RECENT_HISTORY_WINDOW_MS
+
+  return validData.filter(item => Number(item.timestamp) >= minTimestamp)
+})
 
 const toPercent = (raw) => {
   if (raw === null || raw === undefined || Number.isNaN(Number(raw))) {
